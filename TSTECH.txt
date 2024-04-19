@@ -1,0 +1,7 @@
+irm https://massgrave.dev/get | iex
+
+
+
+copia e cola esse comando no powershell
+
+opçAO 2 PARA PACOTE OFFICE 
